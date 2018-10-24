@@ -3,3 +3,6 @@ div {border:solid 2px red;}
 #b2{background-color: yellow;padding:2px;}
 #b3{background-color: grey;width:20%;float: left;}
 #b4{background-color: white;width:78%;float: left;}
+#b5{background-color: yellow;clear:both;}
+#b6{background-color: black;clear:both;}
+#b7{background-color: pink;clear:both;}
